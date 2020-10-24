@@ -8,7 +8,7 @@ public class SpringBootCoreApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootCoreApplication.class, args);
-		System.out.println("Checking ......");
+		System.out.println("Checking ...... Thanks for bringing this out!");
 	}
 
 }
